@@ -29,8 +29,7 @@ The website allows the user to order pizza.
 Resources
 Images: Pizza Hurts Logo
 
-Font: 
-
+Font: Helsinki, Open Sans
 
 Author
 Hoang Nhan Duyen Nguyen
