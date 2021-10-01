@@ -1,36 +1,46 @@
 # WebASP.NET
+## Web Sever Development Project Pizza Hurts
 
-Introduction
+## Introduction
 In this project, a web server application called Pizza Hurts is created for ordering pizza.
 
-Table of Contents
-Prerequisites
-Description
-How To Use
-Resources
-Author
-Prerequisites
-You can use any browser (Chrome, Firefox, Safari,... ) to access to website.
+### Table of Contents
+- [Prerequisites](#prerequisites)
+- [Description](#desciption)
+- [How To Use](#how-to-use)
+- [Resources](#resources)
+- [Author](#author)
 
-Description
+---
+
+## Prerequisites
+You can use any browser (Chrome, Firefox, Safari,... ) to access Lavn.
+
+## Description
 The website includes 3 panels:
-Information
-Pricing
-Ordering
+- Information
+- Pricing
+- Ordering
 
-Technologies
-C#
-ASP.NET
-CSS
+### Technologies
+- C#
+- ASP.NET
+- CSS
 
-How To Use
+---
+
+## How To Use
 The website allows the user to order pizza.
 
-Resources
-Images: Pizza Hurts Logo
+## Resources
+- Images:
+Pizza Hurts Logo
 
-Font: Helsinki, Open Sans
+- Font: [Helsinki](http://www.fonts.cdnfonts.com/css/helsinki")
+- Font: [Open Sans](http://www.fonts.googleapis.com/css?family=Open+Sans")
 
-Author
-Hoang Nhan Duyen Nguyen
-Back To The Top
+## Author
+
+* Hoang Nhan Duyen Nguyen
+
+[Back To The Top](#WebASP.NET)
