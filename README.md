@@ -22,12 +22,11 @@ The website includes 3 panels:
 - Pricing
 - Ordering
 
-### Technologies
+## Technologies
 - C#
 - ASP.NET
 - CSS
 
----
 
 ## How To Use
 The website allows the user to order pizza.
